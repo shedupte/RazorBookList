@@ -367,3 +367,6 @@ C:\Users\PC\source\repos\RazorBookList\RazorBookList\bin\Debug\netcoreapp3.1\run
 C:\Users\PC\source\repos\RazorBookList\RazorBookList\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\PC\source\repos\RazorBookList\RazorBookList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\PC\source\repos\RazorBookList\RazorBookList\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\RazorBookList\RazorBookList\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\RazorBookList\RazorBookList\obj\Debug\netcoreapp3.1\RazorBookList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\RazorBookList\RazorBookList\obj\Debug\netcoreapp3.1\RazorBookList.MvcApplicationPartsAssemblyInfo.cache
